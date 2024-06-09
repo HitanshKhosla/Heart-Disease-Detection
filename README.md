@@ -28,10 +28,3 @@ To run the web application locally, ensure that Streamlit is installed in your P
 
 ```bash
 
-## About
-
-This project was created by [Your Name]. For any questions or inquiries, please contact [Your Email Address].
-
----
-
-Feel free to customize the README further to include additional details or instructions specific to your project. Let me know if you need further assistance!
